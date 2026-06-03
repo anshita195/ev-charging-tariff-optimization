@@ -50,7 +50,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter / Google Colab
 This notebook is designed to run on **Google Colab** with data files stored in
 Google Drive.
 
-1. Upload all dataset files to a folder in your Drive (e.g. `MyDrive/socbiz/`).
+1. Upload all dataset files to a folder in your Drive (e.g. `MyDrive/socbiz/`). (Dataset files are not included due to size. Download ACN-Data from ev.caltech.edu and ST-EVCDP from github.com/IntelligentSystemsLab/ST-EVCDP)
 2. Open `ev_charging_optimization.ipynb` in Google Colab.
 3. Run the first cell to mount Drive and set the `PATH` variable to your folder.
 4. Run all cells sequentially.
@@ -69,6 +69,7 @@ time.csv  |  distance.csv  |  adj.csv  |  information.csv  |  stations.csv
 ├── report.pdf                       # Presentation deck (6 content slides + appendix)
 ├── requirements.txt
 ├── README.md
+```
 
 ## Limitations
 
