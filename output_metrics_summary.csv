@@ -1,0 +1,10 @@
+Agent,Metric,Value,Interpretation
+Demand Prediction,RMSE,0.0133,Very low prediction error on utilization rate
+Demand Prediction,MAE,0.0052,Avg absolute error of 0.5% utilization
+Demand Prediction,R² Score,0.9944,Model explains 99.4% of demand variance
+Tariff Pricing,Revenue Gain %,+17.93%,"₹159,095,000 additional revenue over 5 days"
+Tariff Pricing,Charger Utilization (Before→After),29.2% → 37.1%,Demand redistribution improves utilization
+Tariff Pricing,Off-Peak Uplift,"+27.1% (+764,227 sessions)",764K additional sessions in off-peak windows
+Monitoring & Learning,Avg Wait Time Reduction (min/slot),0.0042,Queue reduction at congested stations
+Monitoring & Learning,Customer Response Rate,+5.08%,Positive demand response to discount pricing
+Monitoring & Learning,Pricing Efficiency Gain %,+17.93%,₹61.07 → ₹72.01 per unit volume delivered
